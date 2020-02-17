@@ -1,2 +1,2 @@
-# Responsive-navBar
-A simple responsive animated navBar.
+# Responsive navbar.
+A simple responsive animated navBar with burger menu.
